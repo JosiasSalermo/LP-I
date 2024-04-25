@@ -6,4 +6,8 @@
 
    3.1 [x] Alo Mundo
 
-   3.1 [ ] Organizando o ambiente de desenvolvimento
+   3.1 [x] Organizando o ambiente de desenvolvimento
+
+4. [x] 4. Tipos primitivos da linguagem Java
+
+   4.1 [x] Tipo Boolean
