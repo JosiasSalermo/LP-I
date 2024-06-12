@@ -12,3 +12,10 @@
 ## 4. Tipos primitivos da linguagem Java
 
 1. [x] 4.1 Tipo Boolean
+1. [x] 4.2 Tipo Casting
+
+## 5. Introdução a programação Orientada a Objetos
+
+1. [x] 5.2 Classes e objetos
+
+
