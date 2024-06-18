@@ -21,6 +21,7 @@
 
 1. [x] 5.3 Membros de uma classe
    
-
+1. [x] 5.4 Comportamento de um objeto
+   
 
 
