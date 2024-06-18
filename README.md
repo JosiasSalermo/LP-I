@@ -19,4 +19,8 @@
 1. [x] 5.2 Classes e objetos
    2. [x] Classes e seus objetos
 
+1. [x] 5.3 Membros de uma classe
+   
+
+
 
