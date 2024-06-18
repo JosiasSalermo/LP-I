@@ -17,5 +17,6 @@
 ## 5. Introdução a programação Orientada a Objetos
 
 1. [x] 5.2 Classes e objetos
+   2. [x] Classes e seus objetos
 
 
