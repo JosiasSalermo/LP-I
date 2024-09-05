@@ -23,5 +23,6 @@
    
 1. [x] 5.4 Comportamento de um objeto
    
-
+1. [x] 5.5 Estrutura de uma classe Java
+   2. [x]  Criando a classe ContaBancaria
 
