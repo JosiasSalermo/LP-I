@@ -5,7 +5,11 @@ public class Aluno {
     double nota;
     int faltas;
 
+    /*
     boolean calculaSituacao(){
 
     }
+
+    */
+
 }

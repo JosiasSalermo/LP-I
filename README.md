@@ -17,12 +17,13 @@
 ## 5. Introdução a programação Orientada a Objetos
 
 1. [x] 5.2 Classes e objetos
-   2. [x] Classes e seus objetos
 
-1. [x] 5.3 Membros de uma classe
-   
-1. [x] 5.4 Comportamento de um objeto
-   
-1. [x] 5.5 Estrutura de uma classe Java
-   2. [x]  Criando a classe ContaBancaria
+2. [x] Classes e seus objetos
 
+3. [x] 5.3 Membros de uma classe
+4. [x] 5.4 Comportamento de um objeto
+5. [x] 5.5 Estrutura de uma classe Java 2. [x] Criando a classe ContaBancaria
+
+6. [x] 5.6 Método Construtor
+
+7. [x] 5.7 Criação de Objetos
